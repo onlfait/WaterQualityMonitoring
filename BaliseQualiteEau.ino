@@ -8,7 +8,7 @@
   
   Microcontroller:
   Adafruit Feather M0 Adalogger https://adafru.it/2796 
-  Sensor included:
+  Sensors included:
   Temperature DS18b20 https://www.velleman.eu/products/view/?id=439184
   Module TDS Gravity SEN0244 pour la qualité de l'eau
   https://www.gotronic.fr/art-module-tds-gravity-sen0244-28277.htm
